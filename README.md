@@ -9,4 +9,4 @@ However, they will soon all be updated appropriately.
 
 1. Python Basics - Profitable App Profiles
 
-*#The approximate order of completion#*. Language Relevant_Skills_Involved - Project_Name 
+*#The approximate order of completion#*. Language/Relevant_Skills_Involved - Project_Name 
